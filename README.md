@@ -12,16 +12,35 @@ O projeto demonstra da aplicabilidade dos princípios do SOLID por meio de exemp
   
 ## 📚 Principais Bibliotecas, Frameworks e Comandos do NuGet Utilizados
 
-* [net6.0](https://learn.microsoft.com/pt-br/dotnet/core/whats-new/dotnet-6) - Versão da plataforma de desenvolvimento .NET, que é de código aberto e multiplataforma, desenvolvida pela Microsoft.
+* [net7.0](https://learn.microsoft.com/pt-br/dotnet/core/compatibility/7.0) - Versão da plataforma de desenvolvimento .NET, que é de código aberto e multiplataforma, desenvolvida pela Microsoft.
 
 ```
-dotnet add package Microsoft.NET.Sdk.Web --version 6.0.0
+dotnet add package Microsoft.NET.Sdk.Web --version 7.0.0
 ```
 
-* [System.Data.SqlClient](https://learn.microsoft.com/pt-br/dotnet/api/system.data.sqlclient?view=windowsdesktop-9.0) - Provedor de dados do .NET para SQL Server com objetovo de acessar um banco de dados do SQL Server.
+* [automapper](https://automapper.org/) - Biblioteca de mapeamento de objetos facilita a conversão de dados entre objetos de tipos diferentes, evitando código repetitivo.
 
 ```
-NuGet\Install-Package System.Data.SqlClient -Version 4.9.0
+dotnet add package AutoMapper --version 12.0.1
+```
+
+* [Swashbuckle.AspNetCore](https://learn.microsoft.com/pt-br/aspnet/core/tutorials/getting-started-with-swashbuckle?view=aspnetcore-8.0&tabs=visual-studio) - Biblioteca facilitar a criação de uma interface visual para testar, explorar e documentar as APIs, sem a necessidade de escrever manualmente a documentação.
+
+```
+dotnet add package Swashbuckle.AspNetCore --version 6.5.0
+```
+
+* [FluentValidation](https://docs.fluentvalidation.net/en/latest/) - Biblioteca de validação de dados para aplicações .NET que permite validar objetos.
+
+```
+dotnet add package FluentValidation --version 11.7.1
+```
+
+* [Microsoft.EntityFrameworkCore](https://learn.microsoft.com/pt-br/ef/core/get-started/overview/install) - 
+ORM que permite a interação entre aplicativos .NET e bancos de dados relacionais de maneira eficiente e prática.
+
+```
+dotnet add package Microsoft.EntityFrameworkCore --version 7.0.11
 ```
 
 ## 🚧 Descrição da Estrutura do Projeto
