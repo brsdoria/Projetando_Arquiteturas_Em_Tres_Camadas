@@ -45,7 +45,7 @@ dotnet add package Microsoft.EntityFrameworkCore --version 7.0.11
 
 ## 🚧 Descrição da Estrutura do Projeto
 
-A estrutura do projeto segundo a imagem abaixo é composta da seguinte forma:
+A estrutura dos projetos segundo a imagem abaixo é composta da seguinte forma:
 
 ![EstruturaDoProjeto](screenshots/estrutura.png)
 
