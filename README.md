@@ -47,7 +47,7 @@ dotnet add package Microsoft.EntityFrameworkCore --version 7.0.11
 
 A estrutura do projeto segundo a imagem abaixo é composta da seguinte forma:
 
-![EstruturaDoProjeto](screenshots/estrutura.PNG)
+![EstruturaDoProjeto](screenshots/estrutura.png)
 
 
 ## ⚠️ Atenção
