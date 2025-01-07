@@ -3,8 +3,7 @@
 ## 📝️ Escopo do Projeto
 
 <p align="justify"> 
-Os projetos demonstram apresentar e explicar todos os conceitos, técnicas e abordagens essenciais para o 
-desenvolvimento de uma arquitetura em 3 camadas eficiente e profissional.
+Os projetos apresentam e explicam de forma clara todos os conceitos, técnicas e abordagens fundamentais para o desenvolvimento de uma arquitetura em 3 camadas, garantindo eficiência e profissionalismo.
 </p>
 
 ## 🛠️ Construído com
