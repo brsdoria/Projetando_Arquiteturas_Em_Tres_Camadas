@@ -49,7 +49,6 @@ A estrutura do projeto segundo a imagem abaixo é composta da seguinte forma:
 
 ![EstruturaDoProjeto](screenshots/estrutura.png)
 
-
 ## ⚠️ Atenção
 
 Destinado exclusivamente para fins de estudo.
